@@ -1,0 +1,31 @@
+Privacy Policy for Ping It Utility
+
+Effective Date: 2023-11-21
+
+1. Introduction
+
+This Privacy Policy describes how Ping It Utility, an app that allows users to ping IP addresses and schedule pings, collects, uses, and discloses your personal information.
+
+2. Information We Collect
+
+Ping It Utility does not collect any personal information from you. The only information that the app collects is the IP address that you specify to ping. This information is not stored or transmitted to any third parties.
+
+3. Use of Information
+
+The IP address that you specify to ping is used to send ping requests to the specified IP address. The app uses this information to provide you with the ping results.
+
+4. Sharing of Information
+
+Ping It Utility does not share your personal information with any third parties.
+
+5. Responsibility of User Actions
+
+Ping It Utility provides users with a tool to ping IP addresses and schedule pings. However, the app is not responsible for any actions taken by the user with the information provided by the app. The user is solely responsible for ensuring that their actions are in compliance with applicable laws and regulations.
+
+6. Changes to Privacy Policy
+
+Ping It Utility may update this Privacy Policy from time to time. If we make any material changes, we will notify you by email or through the app. We encourage you to review this Privacy Policy regularly to stay informed about how we are using your personal information.
+
+7. Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at blackboxautomationapps@gmail.com
